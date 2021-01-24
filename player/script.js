@@ -29,7 +29,7 @@ let All_song = [
    {
      name: "ARTIFACT",
      path: "music/ARTIFACT.mp3",
-     img: "img/GP.jpg",
+     img: "img/OIP.jpg",
      singer: "FT.GTX PREET"
    },
    {
@@ -55,7 +55,19 @@ let All_song = [
      path: "music/14. Street Dancer - Muqabla.mp3",
      img: "img/MQ.jpg",
      singer: "FT. DUKU OFFICIAL"
-   }
+   },
+   {
+	name: "SAWAN MEI LAG ",
+	path: "music/Sawan Mein Lag Gayi Aag - Ginny Weds Sunny.mp3",
+	img: "img/sawan-mein-lag-gayi-aag-ginny-weds-sunny.jpg",
+	singer: "FT.BADSHAH & MILKHA SINGH"
+  },
+  {
+	name: "HUSN HAI",
+	path: "music/Husn Hai Suhana(DjGourRock.In).mp3",
+	img: "img/MD.jpg",
+	singer: "FT.Abhijeet,Chandana Dixit"
+  }
 ];
 
 
