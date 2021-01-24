@@ -67,6 +67,12 @@ let All_song = [
 	path: "music/Husn Hai Suhana(DjGourRock.In).mp3",
 	img: "img/MD.jpg",
 	singer: "FT.Abhijeet,Chandana Dixit"
+  },
+	 {
+	name: "TITLIYA",
+	path: "music/TITTLIA.mp3",
+	img: "img/Titliyan-Lyrics.jpg",
+	singer: "FT.SARGUN MEHTA"
   }
 ];
 
