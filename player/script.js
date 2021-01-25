@@ -73,6 +73,12 @@ let All_song = [
 	path: "music/TITTLIA.mp3",
 	img: "img/Titliyan-Lyrics.jpg",
 	singer: "FT.SARGUN MEHTA"
+  },
+	{
+	name: "NO COMPETITION",
+	path: "music/NO COMPETITION.mp3",
+	img: "img/78.jpg",
+	singer: "FT.DIVINE"
   }
 ];
 
