@@ -79,6 +79,18 @@ let All_song = [
 	path: "music/NO COMPETITION.mp3",
 	img: "img/78.jpg",
 	singer: "FT.DIVINE"
+  },
+	{
+	name: "SHONA SHONA",
+	path: "music/SHONA SHONA.mp3",
+	img: "img/RO.jpg",
+	singer: "FT.TONNY KAKKAR"
+  },
+  {
+	name: "CHOCOLATE",
+	path: "music/CHOCOLATE.mp3",
+	img: "img/UY.jpg",
+	singer: "FT.TONNY KAKKAR"
   }
 ];
 
